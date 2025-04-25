@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## About me
+TO DO: add more details about me later
 
 <!-- TO DO: add more details about me later -->
 <!--
