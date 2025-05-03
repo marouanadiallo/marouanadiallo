@@ -2,7 +2,7 @@
 
 I'm passionate about computer science, particularly in the analysis and design of web applications, which makes me a full-stack developer.
 
-While being full-stack is valuable, I believe that focusing and excelling in specific areas is even more beneficial. Therefore, after careful consideration, I am dedicating more time to Java and Spring backend development, as well as utilizing the Azure cloud associated with this technology that I have chosen to master.
+While being full-stack is valuable, I believe that focusing and excelling in specific areas is even more beneficial. Therefore, after careful consideration, I am dedicating more time to **Java and Spring backend development**, as well as utilizing the **Azure cloud** associated with this technology that I have chosen to master.
 
 When I'm not coding, you can find me playing basketball, cooking up new recipes, or enjoying manga. I'm an active member of several tech communities and enjoy sharing my knowledge through blog posts and tutorials.
 
