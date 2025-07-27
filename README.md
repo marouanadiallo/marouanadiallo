@@ -16,5 +16,4 @@ What I'm currently doing:
 
 - 🔭 I’m currently working on the CompensationTool project for my brother-in-law.
 - 🌱I’m currently reading and practicing "Spring Security in Action, Second Edition" by Laurentiu Spilca.
-- 📺 To maintain and improve my Frontend skills, I prepare and share my knowledge live on Twitch [My channel](https://www.twitch.tv/alphamarouana)
 
