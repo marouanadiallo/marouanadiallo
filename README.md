@@ -15,5 +15,4 @@ When I'm not coding, you can find me playing basketball, cooking up new recipes,
 What I'm currently doing:
 
 - 🔭 I’m currently working on the CompensationTool project for my brother-in-law.
-- 🌱I’m currently reading and practicing "Spring Security in Action, Second Edition" by Laurentiu Spilca.
 
