@@ -10,9 +10,3 @@ When I'm not coding, you can find me playing basketball, cooking up new recipes,
 > 
 > You can reach out to me on [LinkedIn](https://www.linkedin.com/in/alpha-marouana-diallo-124690144/)
 
---
-
-What I'm currently doing:
-
-- 🔭 I’m currently working on the CompensationTool project for my brother-in-law.
-
